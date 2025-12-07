@@ -1,1 +1,1 @@
-print("i got allah with me")
+print("i got allah")
