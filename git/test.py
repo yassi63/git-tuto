@@ -1,2 +1,2 @@
 print("hello world black")
-print("i am lonely")
+print("i got allah with me")
