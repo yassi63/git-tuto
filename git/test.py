@@ -1,5 +1,2 @@
 print("hello world black")
-print(1+1)
-print("sigma male")
-print("this change should appear")
-print("this change should not appear")
+print("i am lonely")
