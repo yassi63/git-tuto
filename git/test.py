@@ -1,1 +1,1 @@
-print("i got allah")
+print("hello world 2")
